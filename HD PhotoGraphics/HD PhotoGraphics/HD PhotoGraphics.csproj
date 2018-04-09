@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{53D49641-6654-4C73-8CC7-133BBA3ECCA3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HD_PhotoGraphics</RootNamespace>
+    <AssemblyName>HD PhotoGraphics</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Addoperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Addoperation.Designer.cs">
+      <DependentUpon>Addoperation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Brightness.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Brightness.Designer.cs">
+      <DependentUpon>Brightness.cs</DependentUpon>
+    </Compile>
+    <Compile Include="charts.cs" />
+    <Compile Include="Contrast.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contrast.Designer.cs">
+      <DependentUpon>Contrast.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdgeDetection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdgeDetection.Designer.cs">
+      <DependentUpon>EdgeDetection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fourier\FFT.cs" />
+    <Compile Include="Fourier\HomomorphicFilterObject.cs" />
+    <Compile Include="Gamma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gamma.Designer.cs">
+      <DependentUpon>Gamma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gausian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gausian.Designer.cs">
+      <DependentUpon>Gausian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gauss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gauss.Designer.cs">
+      <DependentUpon>Gauss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gray.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gray.Designer.cs">
+      <DependentUpon>Gray.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Histogram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Histogram.designer.cs">
+      <DependentUpon>Histogram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Histogram_equalization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Histogram_equalization.designer.cs">
+      <DependentUpon>Histogram_equalization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HM.Designer.cs">
+      <DependentUpon>HM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="imagedata.cs" />
+    <Compile Include="Mean.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mean.Designer.cs">
+      <DependentUpon>Mean.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Not.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Not.Designer.cs">
+      <DependentUpon>Not.cs</DependentUpon>
+    </Compile>
+    <Compile Include="opentype.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="quantization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quantization.Designer.cs">
+      <DependentUpon>quantization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resize.cs" />
+    <Compile Include="resizedform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="resizedform.Designer.cs">
+      <DependentUpon>resizedform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="resizeform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="resizeform.Designer.cs">
+      <DependentUpon>resizeform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sharp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sharp.Designer.cs">
+      <DependentUpon>Sharp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Suboperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suboperation.Designer.cs">
+      <DependentUpon>Suboperation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unsharp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unsharp.Designer.cs">
+      <DependentUpon>Unsharp.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Addoperation.resx">
+      <DependentUpon>Addoperation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Brightness.resx">
+      <DependentUpon>Brightness.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contrast.resx">
+      <DependentUpon>Contrast.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdgeDetection.resx">
+      <DependentUpon>EdgeDetection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gamma.resx">
+      <DependentUpon>Gamma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gausian.resx">
+      <DependentUpon>Gausian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gauss.resx">
+      <DependentUpon>Gauss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gray.resx">
+      <DependentUpon>Gray.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Histogram.resx">
+      <DependentUpon>Histogram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Histogram_equalization.resx">
+      <DependentUpon>Histogram_equalization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HM.resx">
+      <DependentUpon>HM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mean.resx">
+      <DependentUpon>Mean.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Not.resx">
+      <DependentUpon>Not.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="quantization.resx">
+      <DependentUpon>quantization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resizedform.resx">
+      <DependentUpon>resizedform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resizeform.resx">
+      <DependentUpon>resizeform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sharp.resx">
+      <DependentUpon>Sharp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suboperation.resx">
+      <DependentUpon>Suboperation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unsharp.resx">
+      <DependentUpon>Unsharp.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

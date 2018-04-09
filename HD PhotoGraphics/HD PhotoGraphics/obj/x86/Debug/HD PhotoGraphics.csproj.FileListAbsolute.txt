@@ -1,0 +1,137 @@
+c:\users\elhandasya\documents\visual studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\bin\Debug\HD PhotoGraphics.exe
+c:\users\elhandasya\documents\visual studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\bin\Debug\HD PhotoGraphics.pdb
+c:\users\elhandasya\documents\visual studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\elhandasya\documents\visual studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Form1.resources
+c:\users\elhandasya\documents\visual studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Properties.Resources.resources
+c:\users\elhandasya\documents\visual studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\elhandasya\documents\visual studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\elhandasya\documents\visual studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD PhotoGraphics.exe
+c:\users\elhandasya\documents\visual studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD PhotoGraphics.pdb
+c:\users\elhandasya\documents\visual studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.resizedform.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gausian.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gamma.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.quantization.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.HM.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Mean.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gauss.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Sharp.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.resizeform.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Unsharp.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.EdgeDetection.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Contrast.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Not.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gray.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Addoperation.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Suboperation.resources
+C:\Users\elhandasya\Documents\Visual Studio 2010\Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Brightness.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\bin\Debug\HD PhotoGraphics.exe
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\bin\Debug\HD PhotoGraphics.pdb
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Addoperation.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Brightness.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Contrast.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.EdgeDetection.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Form1.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gamma.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gausian.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gauss.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gray.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.HM.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Mean.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Not.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Properties.Resources.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.quantization.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.resizedform.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.resizeform.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Sharp.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Suboperation.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Unsharp.resources
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD PhotoGraphics.exe
+H:\New foldereslam\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD PhotoGraphics.pdb
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\bin\Debug\HD PhotoGraphics.exe
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\bin\Debug\HD PhotoGraphics.pdb
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Addoperation.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Brightness.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Contrast.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.EdgeDetection.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Form1.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gamma.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gausian.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gauss.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gray.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Histogram.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Histogram_equalization.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.HM.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Mean.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Not.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Properties.Resources.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.quantization.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.resizedform.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.resizeform.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Sharp.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Suboperation.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Unsharp.resources
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD PhotoGraphics.exe
+C:\Users\OMEGA\Desktop\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD PhotoGraphics.pdb
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD PhotoGraphics.exe
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD PhotoGraphics.pdb
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\bin\Debug\HD PhotoGraphics.exe
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\bin\Debug\HD PhotoGraphics.pdb
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Addoperation.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Brightness.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Contrast.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.EdgeDetection.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Form1.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gamma.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gausian.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gauss.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gray.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Histogram.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Histogram_equalization.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.HM.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Mean.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Not.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Properties.Resources.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.quantization.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.resizedform.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.resizeform.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Sharp.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Suboperation.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Unsharp.resources
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects Test\Somaaaaz\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD PhotoGraphics.exe
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD PhotoGraphics.pdb
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\bin\Debug\HD PhotoGraphics.exe
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\bin\Debug\HD PhotoGraphics.pdb
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Addoperation.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Brightness.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Contrast.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.EdgeDetection.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Form1.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gamma.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gausian.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gauss.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Gray.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Histogram.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Histogram_equalization.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.HM.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Mean.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Not.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Properties.Resources.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.quantization.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.resizedform.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.resizeform.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Sharp.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Suboperation.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD_PhotoGraphics.Unsharp.resources
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD PhotoGraphics.csprojResolveAssemblyReference.cache
+D:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD PhotoGraphics.csproj.GenerateResource.Cache
+E:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD PhotoGraphics.exe
+E:\Islam Projects\HD PhotoGraphics\HD PhotoGraphics\obj\x86\Debug\HD PhotoGraphics.pdb
